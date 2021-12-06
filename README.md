@@ -1,4 +1,4 @@
-# javascript
+# JavaScript
  
  <strong>Exercícios básico de JavaScript</strong> 💻
  
